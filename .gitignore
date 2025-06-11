@@ -1,0 +1,19 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints
